@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RESTAPI</string>
+    <string name="title_activity_albums">AlbumsActivity</string>
+</resources>
